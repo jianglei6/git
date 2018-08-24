@@ -2,6 +2,9 @@
 
 public class gitTest {
 
-    System.out.println("你好！")
+    public void test(){
+
+        System.out.println("你好！");
+    }
 
 }
